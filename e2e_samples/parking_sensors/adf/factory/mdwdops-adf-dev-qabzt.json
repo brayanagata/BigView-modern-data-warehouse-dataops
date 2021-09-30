@@ -1,0 +1,9 @@
+{
+	"name": "mdwdops-adf-dev-qabzt",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "441e1c93-89af-427e-b20c-4e7d8d6281ce",
+		"tenantId": "1ed27e7f-7662-47eb-9aba-bc0ea0bd2fbf"
+	}
+}
