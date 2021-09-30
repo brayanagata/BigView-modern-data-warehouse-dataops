@@ -1,7 +1,7 @@
 {
 	"name": "P_Ingest_MelbParkingData",
 	"properties": {
-		"description": "Hello Bogota!",
+		"description": "Hello Bogota!, este es un pipeline de prueba. ",
 		"activities": [
 			{
 				"name": "StandardizeData",
